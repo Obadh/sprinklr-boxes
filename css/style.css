@@ -62,7 +62,7 @@ figure figcaption {
     transition: all 0.5s;
 }
 figure figcaption h3 {
-    margin-top: 30%;
+    margin-top: 3%;
 }
 figure img {
     backface-visibility: hidden;
